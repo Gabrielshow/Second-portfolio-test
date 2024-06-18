@@ -79,7 +79,7 @@ export const Projects = () => {
                         }
                       </Row>
                     </Tab.Pane>
-                    <Tab.Pane eventKey="section">
+                    <Tab.Pane eventKey="second">
                       <p>If you want more cool websites like this contact me below.</p>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
